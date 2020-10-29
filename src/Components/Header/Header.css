@@ -1,0 +1,31 @@
+.Header{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    height: 80px;
+    margin-left: 10%;
+
+
+}
+.logo{
+    width: 150px;
+    height: 150px;
+    
+}
+.Header_left{
+    
+    display: flex;
+    align-items: center;
+}
+.Header_right{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 91px;
+
+}
+.control_pannel{
+    padding: 20px;
+}
